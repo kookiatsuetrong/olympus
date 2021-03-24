@@ -3,7 +3,7 @@
 	<groupId>company</groupId>
 	<artifactId>project</artifactId>
 	<version>1</version>
-	<name>welcome</name>
+	<name>olympus</name>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
